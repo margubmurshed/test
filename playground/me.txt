@@ -1,5 +1,0 @@
-{{#margubmurshed}
-Name: Margub Murshed
-Skills: HTML, CSS, JS, React.js, Next.js
-Email: murshedmargub@gmail.com
-{{/margubmurshed}}
